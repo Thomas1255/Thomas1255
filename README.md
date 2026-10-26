@@ -16,7 +16,7 @@ My work spans React and TypeScript web apps, C# desktop interfaces, and graphics
 
 ### Tools
 
-[![Git](assets/badges/git.svg "Git")](https://git-scm.com/) [![Vite](assets/badges/vite.svg "Vite")](https://vite.dev/) [![CMake](assets/badges/cmake.svg "CMake")](https://cmake.org/) [![Supabase](assets/badges/supabase.svg "Supabase")](https://supabase.com/)
+[![Git](assets/badges/git.svg "Git")](https://git-scm.com/) [![Vite](assets/badges/vite.svg "Vite")](https://vite.dev/) [![CMake](assets/badges/cmake.svg "CMake")](https://cmake.org/) [![Supabase](assets/badges/supabase.svg "Supabase")](https://supabase.com/) [![Vercel](assets/badges/vercel.svg "Vercel")](https://vercel.com/)
 
 ## Open to work
 
