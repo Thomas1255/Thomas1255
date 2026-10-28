@@ -2,7 +2,7 @@
 
 I'm a full-stack developer building web applications, interactive graphics, small games, and creative tools. I work across user interfaces and backend functionality to turn ideas into practical, usable software.
 
-My work spans React and TypeScript web apps, C# desktop interfaces, and graphics experiments with C++ and Python. I focus on writing clear, maintainable code, testing how things behave, and solving the problems that come up along the way.
+My work spans React and TypeScript web apps, C# desktop interfaces, and graphics experiments with C++ and Python.
 
 ## My Toolbox
 
